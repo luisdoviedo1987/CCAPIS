@@ -1,0 +1,58 @@
+<footer id="footer" class="footer footer-inverse">
+    <div class="footer-bottom py-3">
+        <div class="container">
+            <div class="row cols-xs-space col-sm-space align-items-center">
+                <div class="col-md-7 col-12">
+                    <div class="text-xs-center text-sm-left">
+                        <ul class="footer-menu">
+                            <li>
+                                <a href="../home/" class="p-l-0">Inicio</a>
+                            </li>
+                            <li>
+                                <a href="http://www.medismart.net/">Pagina Web</a>
+                            </li>
+                        </ul>
+                        <div class="copyright mt-1">
+                            <ul class="copy-links">
+                                <li>
+                                    MediSmart © {'Y'|date} <a href="http://www.medismart.net/" target="_blank">Una empresa del Grupo Montecristo</a>
+                                </li>
+                                
+                                <li>
+                                    <a href="https://www.medismart.net/descargas" target="_blank">Documentos y Reglamentos</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.medismart.net/docs/politica-de-privacidad.pdf" target="_blank">Política de Privacidad</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5">
+                    <div class="text-xs-center text-sm-right">
+                        <ul class="social-media social-media--style-1-v4">
+                            <li>
+                                <a href="https://www.facebook.com/medismartcr" target="_blank" data-toggle="tooltip"
+                                    data-original-title="Facebook">
+                                    <i class="fa fa-facebook"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.instagram.com/medismart.cr/?hl=es-la" target="_blank" data-toggle="tooltip"
+                                    data-original-title="Instagram">
+                                    <i class="fa fa-instagram"></i>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="https://www.youtube.com/channel/UClZEq_9e6-SYKmCOcO7fDVg/videos" target="_blank" data-toggle="tooltip"
+                                    data-original-title="Youtube">
+                                    <i class="fa fa-youtube"></i>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

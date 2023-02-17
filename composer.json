@@ -1,0 +1,7 @@
+{
+    "require": {
+        "php-di/php-di": "^5.4",
+        "swiftmailer/swiftmailer": "^6.0",
+        "firebase/php-jwt": "^5.0"
+    }
+}
